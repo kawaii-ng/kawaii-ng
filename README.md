@@ -67,6 +67,9 @@
 <br>
 <h3>Side Project(s): </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii-ng&repo=Nice2MeetU&theme=react" alt="kawaii-ng" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii-ng&repo=draw-card-app&theme=react" alt="kawaii-ng" /></p>
-
+<a href="https://github.com/kawaii-ng/Nice2MeetU.git">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii-ng&repo=Nice2MeetU&theme=react" alt="kawaii-ng" /></p>
+</a>
+<a href="https://github.com/kawaii-ng/draw-card-app.git">
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii-ng&repo=draw-card-app&theme=react" alt="kawaii-ng" /></p>
+</a>
