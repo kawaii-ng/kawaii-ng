@@ -42,12 +42,31 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
 </p>
-
+<br>
+<h3>Github Stats: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaii-ng&show_icons=true&locale=en&theme=react" alt="kawaii-ng" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kawaii-ng&show_icons=true&locale=en&theme=react&hide=stars,prs,issues,contribution" alt="kawaii-ng" /></p>
+<br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kawaii-ng&show_icons=true&locale=en&theme=react&hide=stars,prs,issues,contribs" alt="kawaii-ng" /></p>
+<br>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kawaii-ng&theme=react" alt="kawaii-ng" /></p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3>Side Project(s): </h3>
 
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii-ng&repo=Nice2MeetU&theme=react" alt="kawaii-ng" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii-ng&repo=draw-card-app&theme=react" alt="kawaii-ng" /></p>
 
