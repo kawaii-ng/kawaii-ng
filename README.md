@@ -44,7 +44,7 @@
 </p>
 <br>
 <h3>Github Stats: </h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaii-ng&show_icons=true&locale=en&theme=react" alt="kawaii-ng" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaii-ng&hide=c%23&theme=react" alt="kawaii-ng" /></p>
 <br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kawaii-ng&show_icons=true&locale=en&theme=react&hide=stars,prs,issues,contribs" alt="kawaii-ng" /></p>
 <br>
