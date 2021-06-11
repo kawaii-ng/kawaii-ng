@@ -3,12 +3,9 @@
 
 ## About Me
 
-- 🏫 Student
-- 🇭🇰 Hongkongers
-- ⛪ Christian
+- 🏫 Student, 🇭🇰 Hongkongers, ⛪ Christian
 - 💻 Learning Programming
-- 👨🏼‍💻 Want to be a full stack developer
-- 🎮 Playing Genship Impact often
+- 🎮 Playing Genshin Impact often
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaii-ng&count_private=true&hide=contribs,prs,stars,issues&show_icons=true&theme=react)
 
