@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawaii-ng&show_icons=true&theme=onedark&locale=en&layout=compact&hide=c%23,ShaderLab" alt="kawaii-ng" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawaii-ng&show_icons=true&theme=onedark&locale=en3" alt="kawaii-ng" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawaii-ng&show_icons=true&theme=onedark&locale=en" alt="kawaii-ng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawaii-ng&theme=dark" alt="kawaii-ng" /></p>
