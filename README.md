@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicky Ng</h1>
 <h3 align="center">A passionate IMT student from Hong Kong</h3>
 
-- 🌱 I’m currently learning **Mongodb**
+- 🌱 I’m currently learning **HOW TO COMPLETE MY TASK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
